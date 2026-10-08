@@ -16,7 +16,7 @@ warnings.filterwarnings("ignore")
 import setproctitle
 
 # 设置进程名
-setproctitle.setproctitle("李爽")
+setproctitle.setproctitle("111")
 
 best_mAP = 0
 best_rank1 = 0
